@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Sleepy Bear\\408\\\u6570\u636E\u7ED3\u6784\u4EE3\u7801\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC96BF2-0533-46FC-82A4-8CE8D5C99FF7}|\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D.vcxproj|C:\\Users\\Administrator\\Desktop\\Sleepy Bear\\408\\\u6570\u636E\u7ED3\u6784\u4EE3\u7801\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEC96BF2-0533-46FC-82A4-8CE8D5C99FF7}|\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D.vcxproj|solutionrelative:\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Sleepy Bear\\408\\\u6570\u636E\u7ED3\u6784\u4EE3\u7801\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Sleepy Bear\\408\\\u6570\u636E\u7ED3\u6784\u4EE3\u7801\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\u7684\u52A8\u6001\u5206\u914D\\\u6E90.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:58:17.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
