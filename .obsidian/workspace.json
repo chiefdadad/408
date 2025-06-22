@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c3af8719e83f60b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3830ccbdd7b48f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcfb8bef433d3285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/2.线性表/2.1线性表的定义与基本操作.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1线性表的定义与基本操作"
+            }
+          },
+          {
+            "id": "0cd4cd51ccbc9375",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0242aa58452cff80",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cb4b739f43e17e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca06d0d033619d67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fcc406f5b66c8c35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "14d100356b52d358",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "323e557deb752d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b5bec73e2cd93b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9b34ec81afa367",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "970a2c56ce936fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "0ec506bc0d70c8a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "eeec7c8153b504c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "1f39d9bfce4affe3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0cd4cd51ccbc9375",
+  "lastOpenFiles": [
+    "数据结构/8.排序/1.3希尔排序.md",
+    "计算机组成原理/1.概述/1.6存储器的性能指标.md",
+    "计算机组成原理/1.概述/1.3各个部件的工作原理.md",
+    "计算机组成原理/1.概述/1.2计算机硬件的基本组成.md",
+    "计算机组成原理/1.概述/1.1计算机系统.md",
+    "数据结构/6.图/1.1图的基本概念.md",
+    "未命名.canvas",
+    "数据结构/8.排序/images/image-20250616220601737.png",
+    "数据结构/8.排序/1.1排序的基本概念.md",
+    "数据结构/4.串/1.1串的定义和基本操作.md",
+    "数据结构/1.绪论/1.2算法和算法评价.md",
+    "数据结构/1.绪论/1.1数据结构基本概念.md",
+    "计算机组成原理/2.数据的表示和运算/数据的表示与运算/1.3加法器.md",
+    "计算机组成原理/2.数据的表示和运算/数据的表示与运算/1.2多路选择器和三态门.md",
+    "计算机组成原理/2.数据的表示和运算/数据的表示与运算/1.1逻辑门电路.md"
+  ]
+}
