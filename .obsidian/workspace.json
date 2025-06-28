@@ -25,12 +25,14 @@
             "id": "0cd4cd51ccbc9375",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "数据结构/2.线性表/2.8循环链表.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2.8循环链表"
             }
           }
         ],
@@ -192,6 +194,7 @@
   },
   "active": "0cd4cd51ccbc9375",
   "lastOpenFiles": [
+    "数据结构/2.线性表/2.6单链表的建立.md",
     "数据结构/8.排序/1.3希尔排序.md",
     "计算机组成原理/1.概述/1.6存储器的性能指标.md",
     "计算机组成原理/1.概述/1.3各个部件的工作原理.md",
